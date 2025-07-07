@@ -4,3 +4,15 @@ Se debe usar el algoritmo Dijkstra o floyd para resolver un laberinto, este labe
 ![laberinto 30x30](https://github.com/vivinaCordova/Practica-4/blob/main/Captura%20de%20pantalla%20de%202025-07-07%2015-44-46.png)
 
 ![consola](https://github.com/vivinaCordova/Practica-4/blob/main/Captura%20de%20pantalla%20de%202025-07-07%2015-27-46.png)
+
+## Codigos
+
+[UndirectedGraph](https://github.com/vivinaCordova/Practica-4/blob/main/src/main/java/org/unl/music/base/controller/data_struct/graphs/UndirectedGraph.java)
+
+[codigos](https://github.com/vivinaCordova/Practica-4/tree/main/src/main/java/org/unl/music/base/controller/data_struct/graphs/laberinto)
+
+### codigos 
+
+[Floyd](https://github.com/vivinaCordova/Practica-4/blob/main/src/main/java/org/unl/music/base/controller/data_struct/graphs/laberinto/LaberintoMatriz.java)
+
+[Visualizar Grafo](https://github.com/vivinaCordova/Practica-4/blob/main/src/main/java/org/unl/music/base/controller/data_struct/graphs/laberinto/GrafoVisual.java)
